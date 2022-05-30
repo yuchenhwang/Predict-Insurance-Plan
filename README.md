@@ -7,3 +7,6 @@ Build a KNN machine learning model to predict the insurance plan based on the in
 - PPT - Numerical variable denotes the duration of the insurance premium payment. 
 - Amount - Numerical variable denotes the insurance premium. 
 - Plan - Categorical variable denotes the the type of insurance product.
+
+**Accuracy: 0.825** 
+**F1 Score: 0.825**
